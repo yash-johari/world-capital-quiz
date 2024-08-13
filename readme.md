@@ -23,7 +23,7 @@ Make sure you have the following installed:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/world-capital-quiz.git
+git clone https://github.com/yash-johari/world-capital-quiz.git
    
 # Navigate to the project directory
 cd world-capital-quiz
